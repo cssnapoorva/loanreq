@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>ytyu</name>
+        <order/>
+        <roles>x_301947_loanreq.eg_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-01 16:33:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>40f813ecdb7ea300b1157b1ebf961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ytyu</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="loanreq" source="x_301947_loanreq">37b757acdb7ea300b1157b1ebf961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="loanreq">37b757acdb7ea300b1157b1ebf961974</sys_scope>
+        <sys_update_name>sys_ui_application_40f813ecdb7ea300b1157b1ebf961993</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-01 16:33:36</sys_updated_on>
+    </sys_ui_application>
+</record_update>
